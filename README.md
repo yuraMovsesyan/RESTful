@@ -1,6 +1,8 @@
 # RESTful
 RESTful for yura.store
 
+To start, you need XAMPP 8.1.2-0
+
 run XAMPP
 ```
 sudo /opt/lampp/manager-linux-x64.run
