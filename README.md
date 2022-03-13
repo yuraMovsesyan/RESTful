@@ -13,3 +13,8 @@ sudo chmod -R 777 /opt/lampp/htdocs
 cd /opt/lampp/htdocs
 git clone https://github.com/yuraMovsesyan/RESTful
 ```
+
+Open link
+```
+http://localhost/RESTful/public
+```
